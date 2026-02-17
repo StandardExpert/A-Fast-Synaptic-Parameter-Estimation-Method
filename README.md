@@ -244,16 +244,6 @@ estimate_synapse_params(data, noise_std)
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Your Paper Citation Here]
-```
-
----
-
 ## License
 
 This project is provided for academic research use.
@@ -266,9 +256,9 @@ Please contact the authors for licensing details if used commercially.
 
 For questions or collaboration:
 
-[Author Name]  
-[Institution]  
-[Email Address]
+[Liber T. Hua]  
+[Beijing Normal University]  
+[202531061015@mail.bnu.edu.cn]
 
 ---
 
